@@ -29,3 +29,6 @@ Ejecutar aplicación
     $ npm start
 
 > **Nota**: El proyecto fue desarrollado y probado en una Mac, si desea probar el proyecto en una PC pueda que deba hacer cambios.
+
+# Demostración
+[https://www.youtube.com/watch?v=vy8IeOswTWQ](https://www.youtube.com/watch?v=vy8IeOswTWQ)
